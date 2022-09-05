@@ -28,3 +28,10 @@
 
 
 
+# Реализуйте алгоритм перемешивания списка.
+
+# list = ['Дом', 'Life', 853, 'Home', 487]
+# print(list) 
+# import random
+# random.shuffle(list)
+# print(list) 
